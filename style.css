@@ -1,0 +1,125 @@
+body {
+
+    background-color: rgb(16, 200, 233);
+}
+
+
+
+
+/* for container1 css */
+.container1 {
+
+    height: 90px;
+    width: 90%;
+    border: 2px solid rgb(210, 30, 120);
+    background-color: rgb(37, 96, 96);
+    border-radius: 10px;
+    color: azure;
+    position: sticky;
+    top: 0px;
+}
+
+
+
+
+
+
+/* <for container2 css> */
+.container2 {
+    text-decoration: none;
+    border: 3px solid purple;
+    background-color: rgb(54, 199, 228);
+    height: 100px;
+    width: 88%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 10px 10px;
+    position: fixed;
+    top: 95px;
+    left: 75px;
+
+}
+
+a:active {
+    color: aqua;
+}
+
+
+
+.c2 {
+
+    width: 70px;
+    height: 40px;
+    font-size: 35px;
+    font-weight: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid white;
+    color: rgb(49, 205, 137);
+    background-color: rgb(43, 109, 167);
+    display: grid;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+a {
+
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+/* <For container3 css> */
+
+.container3 {
+
+    height: auto;
+    width: 90%;
+    border: 2px solid black;
+    margin-top: 100px;
+    border-radius: 10px;
+    align-content: center;
+    background-image: url(./images/kiddos.png);
+}
+
+img {
+    
+    width: 300px;
+    height: 300px;
+    padding: 150px;
+    margin-top: 110px;
+}
+
+.alfa {
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: rgb(202, 237, 25);
+    font-size: 150px;
+    font-weight: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    float: left;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 260px;
+    padding-top: 0px;
+
+
+}
+
+
+    
+    
+
